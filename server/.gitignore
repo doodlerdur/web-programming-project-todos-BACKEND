@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .env*
 .flaskenv*
 !.env.project
 !.env.vault
+=======
+node_modules/
+.env
+>>>>>>> c9137b1a7d1144742b756eec386495028535a8e3
